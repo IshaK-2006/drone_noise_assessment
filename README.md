@@ -3,7 +3,7 @@
 **Author:** Isha Kulshrestha  
 **Affiliation:** B.Sc. (Hons) Physics, Lovely Professional University  
 **Internship:** NIT Calicut Summer Internship Programme (SIP) 2026  
-**Supervisor:** Dr. T. J. S. Jothi, Department of Physics, NIT Calicut  
+**Supervisor:** Dr. T. J. S. Jothi, Department of Mechanical Engineering, NIT Calicut  
 
 
 ---
